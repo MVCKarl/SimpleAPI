@@ -15,6 +15,7 @@ public class WeatherForecastController : ControllerBase
     public WeatherForecastController()
     {
     }
+    
 
     [HttpGet("{id}")]
     public ActionResult<string> Get(int id)
