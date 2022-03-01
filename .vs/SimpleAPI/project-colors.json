@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4c2d854-eb28-418b-8899-19e5a0c3fea7": {
+      "ProjectGuid": "d4c2d854-eb28-418b-8899-19e5a0c3fea7",
+      "DisplayName": "SimpleAPI",
+      "ColorIndex": 0
+    },
+    "fe8e7551-51db-4dbf-9f27-4972045c5c1e": {
+      "ProjectGuid": "fe8e7551-51db-4dbf-9f27-4972045c5c1e",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "4ee1b667-91e7-415d-9470-d4a65e896d09": {
+      "ProjectGuid": "4ee1b667-91e7-415d-9470-d4a65e896d09",
+      "DisplayName": "SimpleAPI.Tests",
+      "ColorIndex": 2
+    },
+    "394617c1-e9f8-4d06-9f57-6d168da1a6ae": {
+      "ProjectGuid": "394617c1-e9f8-4d06-9f57-6d168da1a6ae",
+      "DisplayName": "SimpleAPI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
